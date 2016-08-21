@@ -1,0 +1,14 @@
+.settings
+.project
+.pydevproject
+*~
+*.pyc
+docs
+bin/
+include/
+lib/
+lib64
+share/
+local/
+*.png
+venv
